@@ -2,7 +2,7 @@ package mavendemo;
 
 public class App {
    public String Sample() {
-	   System.out.println("kiran");
+	   System.out.println("bnn & ann");
 	return null;
 }
    
